@@ -28,15 +28,15 @@ export default function HeroSection() {
 						fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
 						lineHeight={'110%'}
 					>
-						Make money from <br />
+						Access to leading designers & developers <br />
 						<Text as={'span'} color={'green.400'}>
-							your audience
+							without the contract
 						</Text>
 					</Heading>
 					<Text color={'gray.500'}>
-						Monetize your content by charging your most loyal readers and reward
-						them loyalty points. Give back to your loyal readers by granting
-						them access to your pre-releases and sneak-peaks.
+						Get access to the best industry proffessionals from all over the
+						world without the commitment of a contract and fixed terms. Get the
+						full service without the full headache!
 					</Text>
 					<Stack
 						direction={'column'}
@@ -76,7 +76,7 @@ export default function HeroSection() {
 								top={'-15px'}
 								transform={'rotate(10deg)'}
 							>
-								Starting at $15/mo
+								Starting at $79/mo
 							</Text>
 						</Box>
 					</Stack>
